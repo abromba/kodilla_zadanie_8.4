@@ -1,0 +1,31 @@
+{
+  "name": "javas_8_4_a",
+  "version": "1.0.0",
+  "description": "zadanie 8.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abromba/kodilla_zadanie_8.4.git"
+  },
+  "keywords": [
+    "java",
+    "script"
+  ],
+  "author": "Anna Mądra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abromba/kodilla_zadanie_8.4/issues"
+  },
+  "homepage": "https://github.com/abromba/kodilla_zadanie_8.4#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
